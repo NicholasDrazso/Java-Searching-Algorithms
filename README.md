@@ -1,2 +1,2 @@
 # Recursive Binary Search
-Various searching algorithms in java
+Binary search algorithm using recursion
